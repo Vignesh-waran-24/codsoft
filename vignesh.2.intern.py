@@ -16,7 +16,7 @@ while "true":
  elif(c=="div"):
     print(a/b)
  elif(c=="mod"):
-    print("mod is",a%B)
+    print("mod is",a%b)
  else:
     print("invalid statement")
  
